@@ -76,6 +76,6 @@
 // console.log(document.body);
 // document.body.innerHTML = "<h1> This is only JavaScript Heading! </h1>";
 
-const id1 = document.getElementById("id1");
-id1.innerHTML = "";
-id1.innerHTML = "<p> This is a paragraph";
+// const id1 = document.getElementById("id1");
+// id1.innerHTML = "";
+// id1.innerHTML = "<p> This is a paragraph";
